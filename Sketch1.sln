@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "otaTest", "..\otaTest\otaTest.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sk", "Sk\Sk.vcxproj", "{8C5653EE-0214-420B-8D71-30D70846436B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcpclient", "tcpclient\tcpclient.vcxproj", "{9F7EA6FF-6727-4CAB-AD2F-4CBD857AE99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{8C5653EE-0214-420B-8D71-30D70846436B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C5653EE-0214-420B-8D71-30D70846436B}.Debug|x86.Build.0 = Debug|Win32
+		{8C5653EE-0214-420B-8D71-30D70846436B}.Release|x86.ActiveCfg = Release|Win32
+		{8C5653EE-0214-420B-8D71-30D70846436B}.Release|x86.Build.0 = Release|Win32
+		{9F7EA6FF-6727-4CAB-AD2F-4CBD857AE99E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F7EA6FF-6727-4CAB-AD2F-4CBD857AE99E}.Debug|x86.Build.0 = Debug|Win32
+		{9F7EA6FF-6727-4CAB-AD2F-4CBD857AE99E}.Release|x86.ActiveCfg = Release|Win32
+		{9F7EA6FF-6727-4CAB-AD2F-4CBD857AE99E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2805187F-A8FC-43DC-9D22-33E7297DC58C}
+	EndGlobalSection
+EndGlobal

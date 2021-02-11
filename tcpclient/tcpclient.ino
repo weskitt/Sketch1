@@ -56,7 +56,7 @@ void setup() {
     Serial.print(host);
     Serial.print(':');
     Serial.println(port);
-
+     
     // Use WiFiClient class to create TCP connections
     
     while (!client.connect(host, port)) {
